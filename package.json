@@ -1,0 +1,17 @@
+{
+  "name": "conectdb-teset-whit-nodejs",
+  "version": "1.0.0",
+  "description": "connect mysql db with nodejs",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "ever",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
